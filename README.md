@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamanji2654
+- 👋 Hi, I’m @ANJANEYULU KONAKANCHI
 - 👀 I’m interested in as software developer
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
